@@ -1,5 +1,5 @@
 # control-stock
-App creada para mi trabajo actual ante la falta de un programa para gestionar el stock.
+App que cree para un trabajo anterior ante la falta de un programa para gestionar el stock.
 
 Se trata de un programa simple conectado a una DB (MongoDB), el cual permite gestionar el stock y ubicacion de la mercaderia en 3 depositos distintos.
 
